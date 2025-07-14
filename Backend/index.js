@@ -42,7 +42,7 @@ const dotenv=require('dotenv');
 const loginschema=require('./models/loginschema');
 const Songschema=require('./models/songschema');
 const db=require('./database');
-const routing=require('./Routing');
+const routing=require('./routing');
 db();
 app.use('/',routing);
 dotenv.config();
