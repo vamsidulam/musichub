@@ -1,0 +1,105 @@
+.profile-page-section{
+    display: flex;
+    flex-direction: column;
+    width:500px;
+}
+.user-details-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 0px 5px rgb(207, 218, 218);
+}
+.details-section-left{
+    font-size: 19px;
+    padding: 20px;
+    border-right: 1px solid #0ff;
+    padding-top: 30px;
+}
+.details-section-left .details{
+    display: flex;
+}
+.details-section-left button{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.details-section-left .details p{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.details-section-right{
+    padding: 20px;
+    border-radius: 9px;
+    box-shadow: 0px 0px 5px #0ff;
+}
+.details-section-right .dp{
+    font-size: 100px;
+}
+.details-section-right .dp:hover{
+    box-shadow: 0px 0px 15px #0ff;
+}
+.profile-status{
+    flex: 1;
+    
+}
+.password-change-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+}
+.password-change-section form{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 9px;
+}
+.password-change-section form input{
+    outline: none;
+    background-color: black;
+    margin-top: 10px;
+    padding: 9px;
+    border: none;
+    border-radius: 9px;
+    color: white;
+}
+.edit-name-btn{
+    cursor: pointer;
+    padding-left: 10px;
+    font-size: 22px;
+}
+.name-details .confirm-new-name-btn{
+    position: absolute;
+    left: 220px;
+    top: -50px;
+    padding: 7px 7px;
+    cursor: pointer;
+}
+.name-details{
+    position: relative;
+}
+.edit-name-input{
+    position: absolute;
+    width: 140px;
+    left: 55px;
+    outline: none;
+    background-color: black;
+    padding: 7px;
+    color: wheat;
+    border: none;
+    border-radius: 9px;
+}
+.password-change-section form .confirm-btn{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+

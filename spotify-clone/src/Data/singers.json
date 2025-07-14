@@ -1,0 +1,415 @@
+[
+        {
+            "singername":"DEVI SRI PRASAD",
+            "singerimg":"/songs/dsp/songimages/dsp.avif",
+            "songslist":[
+                {
+                
+                    "songname":"Etho Priyaraagam",
+                    "songurl":"/songs/dsp/Etho Priyaraagam (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/dsp/songimages/arya.jpg",
+                    "language":"Malayalam"
+                },
+                {
+                    
+                    "songname":"Ring Ringa",
+                    "songurl":"/songs/dsp/4-Ring Ringa-SenSongsMp3.Co.mp3",
+                    "songthumbnail":"/songs/dsp/songimages/arya 2.webp",
+                    "language":"Telugu"
+                },
+                {
+                    
+                    "songname":"Saami Saami",
+                    "songurl":"/songs/dsp/128-Saami Saami - Pushpa - The Rise 128 Kbps.mp3",
+                    "songthumbnail":"/songs/dsp/songimages/saami saami.jpeg",
+                    "language":"Hindi"
+                },
+                {
+                    
+                    "songname":"Yenna Solla Pore",
+                    "songurl":"/songs/dsp/Yenna-Solla-Pore.mp3",
+                    "songthumbnail":"/songs/dsp/songimages/yenna solla.jpeg",
+                    "language":"Tamil"
+                }
+            ]
+        },
+        {
+            "singername":"Anirudh",
+            "singerimg":"/songs/anirudh/songimages/anirudh.avif",
+            "songslist":[
+                {
+                    
+                    "songname":"Tatta Tattara",
+                    "songurl":"/songs/anirudh/Tatta Tattara.mp3",
+                    "songthumbnail":"/songs/anirudh/songimages/tatta tattara.avif",
+                    "language":"Malayalam"
+                },
+                {
+                   
+                    "songname":"Ring Ringa",
+                    "songurl":"/songs/dsp/4-Ring Ringa-SenSongsMp3.Co.mp3",
+                    "songthumbnail":"/songs/dsp/songimages/arya 2.webp",
+                    "language":"Telugu"
+                },
+                {
+                  
+                    "songname":"Fear Song",
+                    "songurl":"/songs/anirudh/Fear(KoshalWorld.Com).mp3",
+                    "songthumbnail":"/songs/anirudh/songimages/devara.jpeg",
+                    "language":"Hindi"
+                },
+                {
+                  
+                    "songname":"Hukum",
+                    "songurl":"/songs/anirudh/Hukum---Thalaivar-Alappara-MassTamilan.dev.mp3",
+                    "songthumbnail":"/songs/anirudh/songimages/jailer.webp",
+                    "language":"Tamil"
+                }
+            ]
+        },
+        {
+            "singername":"Jonita Gandhi",
+            "singerimg":"/songs/jonitha gandhi/songimages/jonitha gandhi.jpeg",
+            "songslist":[
+                {
+                  
+                    "songname":"Kaattalakal",
+                    "songurl":"/songs/jonitha gandhi/Kaattalakal (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/jonitha gandhi/songimages/kaattalkal.jpg",
+                    
+                    "language":"Malayalam"
+                },
+                {
+                    
+                    "songname":"Nuve Nuve",
+                    "songurl":"/songs/jonitha gandhi/Nuvve Nuvve - SenSongsmp3.Co.mp3",
+                    "songthumbnail":"/songs/jonitha gandhi/songimages/kick-2 nuve nuve.jpg",
+                    
+                    "language":"Telugu"
+                },
+                {
+                  
+                    "songname":"Soni Soni",
+                    "songurl":"/songs/jonitha gandhi/Soni Soni.mp3",
+                    "songthumbnail":"/songs/jonitha gandhi/songimages/sonisoni.webp",
+                   
+                    "language":"Hindi"
+                },
+                {
+                
+                    "songname":"Breakup",
+                    "songurl":"/songs/jonitha gandhi/The Breakup Song (Ae Dil Hai Mushkil) - (Raag.Fm).mp3",
+                    "songthumbnail":"/songs/jonitha gandhi/songimages/breakup.jpg",
+                    
+                    "language":"Hindi"
+                },
+                {
+                 
+                    "songname":"Arabic Kuthu",
+                    "songurl":"/songs/jonitha gandhi/Arabic-Kuthu---Halamithi-Habibo-MassTamilan.so.mp3",
+                    "songthumbnail":"/songs/jonitha gandhi/songimages/beast arbic kuthu.webp",
+                    
+                    "language":"Tamil"
+                }
+            ]
+        },
+        {
+            "singername":"Sid Sri Ram",
+            "singerimg":"/songs/sidsriram/songimages/sidsriram.jpg",
+            "songslist":[
+                {
+                
+                    "songname":"Aalaporan",
+                    "songurl":"/songs/sidsriram/Aalaporan-Thamizhan-MassTamilan.com.mp3",
+                    "songthumbnail":"/songs/sidsriram/songimages/maacho.webp",
+                    
+                    "language":"Malayalam"
+                },
+                {
+                   
+                    "songname":"Vachindhamaa",
+                    "songurl":"/songs/sidsriram/Vachindamma - SenSongsMp3.Co.mp3",
+                    "songthumbnail":"/songs/sidsriram/songimages/vachindhama.jpg",
+                    
+                    "language":"Telugu"
+                },
+                {
+                    
+                    "songname":"Laat Maar",
+                    "songurl":"/songs/sidsriram/Laat Maar (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/sidsriram/songimages/laat maar.jpg",
+                   
+                    "language":"Hindi"
+                },
+                {
+                    
+                    "songname":"Ennai Vittu",
+                    "songurl":"/songs/sidsriram/Ennai-Vittu-MassTamilan.dev.mp3",
+                    "songthumbnail":"/songs/sidsriram/songimages/ennai vittu.jpeg",
+                  
+                    "language":"Tamil"
+                }
+            ]
+        },
+        {
+            "singername":"Arjith Singh",
+            "singerimg":"/songs/arjithsingh songs/songimages/Arijit_Singh.jpg",
+            "songslist":[
+                {
+              
+                    "songname":"Anuraaga",
+                    "songurl":"/songs/arjithsingh songs/Anuraaga Vilochananayi (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/arjithsingh songs/songimages/anuraga.jpeg",
+                    
+                    "language":"Malayalam"
+                },
+                {
+                    
+                    "songname":"Anuvanuvu",
+                    "songurl":"/songs/arjithsingh songs/Anuvanuvuu(KoshalWorld.Com).mp3",
+                    "songthumbnail":"/songs/arjithsingh songs/songimages/anuvanuvu.jpg",
+                  
+                    "language":"Telugu"
+                },
+                {
+                  
+                    "songname":"Tum Hi Ho",
+                    "songurl":"/songs/arjithsingh songs/128-Tum Hi Ho - Aashiqui 2 128 Kbps.mp3",
+                    "songthumbnail":"/songs/arjithsingh songs/songimages/tumhiho.jpeg",
+                  
+                    "language":"Hindi"
+                },
+                {
+                  
+                    "songname":"Neeye Neeye",
+                    "songurl":"/songs/arjithsingh songs/Neeye-Neeye-MassTamilan.so.mp3",
+                    "songthumbnail":"/songs/arjithsingh songs/songimages/neeye neeye.jpg",
+                   
+                    "language":"Tamil"
+                }
+            ]
+        },
+        {
+            "singername":"Krishna Kumar",
+            "singerimg":"/songs/kk krishna kumar kunnath/songimages/kk.jpg",
+            "songslist":[
+                {
+                    
+                    "songname":"kathorthu",
+                    "songurl":"/songs/kk krishna kumar kunnath/Kathorthu Kathorthu (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/kk krishna kumar kunnath/songimages/kathorthu.webp",
+                    
+                    "language":"Malayalam"
+                },
+                {
+                   
+                    "songname":"Mugamoodi",
+                    "songurl":"/songs/kk krishna kumar kunnath/theme-music-32070.mp3",
+                    "songthumbnail":"/songs/kk krishna kumar kunnath/songimages/mugamoodi.jpg",
+                    
+                    "language":"Telugu"
+                },
+                {
+                    
+                    "songname":"Dil Baadat",
+                    "songurl":"/songs/kk krishna kumar kunnath/Dil Ibaadat Tum Mile Original Motion Picturetrack 320 Kbps.mp3",
+                    "songthumbnail":"/songs/kk krishna kumar kunnath/songimages/dil baadat.webp",
+                   
+                    "language":"Hindi"
+                },
+                {
+                  
+                    "songname":"kangal neeye",
+                    "songurl":"/songs/kk krishna kumar kunnath/Agasatha.mp3",
+                    "songthumbnail":"/songs/kk krishna kumar kunnath/songimages/kangal neeye.jpg",
+                   
+                    "language":"Tamil"
+                }
+            ]
+        },
+        {
+            "singername":"SP BALA SUBRAMANYAM",
+            "singerimg":"/songs/spb/songimages/spb.jpeg",
+            "songslist":[
+                {
+                   
+                    "songname":"Poomaname",
+                    "songurl":"/songs/spb/Poomaaname (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/spb/songimages/poomaname.jpeg",
+                   
+                    "language":"Malayalam"
+                },
+                {
+                    
+                    "songname":"Abbani Teyyani",
+                    "songurl":"/songs/spb/Abbanee - SenSongsMp3.Co.mp3",
+                    "songthumbnail":"/songs/spb/songimages/abbani teyyani debba.webp",
+                  
+                    "language":"Telugu"
+                },
+                {
+                    
+                    "songname":"Dil Deewana",
+                    "songurl":"/songs/spb/Dil Deewana Duet Maine Pyar Kiya 320 Kbps.mp3",
+                    "songthumbnail":"/songs/spb/songimages/dil deewana.webp",
+                    
+                    "language":"Hindi"
+                },
+                {
+                    
+                    "songname":"Ilaya Nila",
+                    "songurl":"/songs/spb/Ilaiya Nila.mp3",
+                    "songthumbnail":"/songs/spb/songimages/ilaya nila.jpg",
+                  
+                    "language":"Tamil"
+                },
+                {
+                  
+                    "songname":"Ghallu Ghallu",
+                    "songurl":"/songs/spb/Ghallu Ghallu (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/spb/songimages/ghallu ghallu.jpg",
+                    
+                    "language":"Telugu"
+                },
+                {
+                   
+                    "songname":"Ye swapnalokala",
+                    "songurl":"/songs/spb/Ye Swapnalokala (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/spb/songimages/ye swapnalokala.webp",
+                   
+                    "language":"Telugu"
+                }
+            ]
+        },
+        {
+            "singername":"Shreya Gowshwal",
+            "singerimg":"/songs/shreya goshwal songs/songimages/Shreya_Ghoshal.jpg",
+            "songslist":[
+                {
+                   
+                    "songname":"Kathirunnu",
+                    "songurl":"/songs/shreya goshwal songs/Kaathirunnu-Kaathirunnu.mp3",
+                    "songthumbnail":"/songs/shreya goshwal songs/songimages/kathirunnu.jpeg",
+                  
+                    "language":"Malayalam"
+                },
+                {
+                    
+                    "songname":"Sooseki",
+                    "songurl":"/songs/shreya goshwal songs/Sooseki telugu.mp3",
+                    "songthumbnail":"/songs/shreya goshwal songs/songimages/sooseki.jpg",
+                   
+                    "language":"Telugu"
+                },
+                {
+                    
+                    "songname":"Chikkini Chameli",
+                    "songurl":"/songs/shreya goshwal songs/Chikni Chameli.mp3",
+                    "songthumbnail":"/songs/shreya goshwal songs/songimages/Chikni-Chameli.jpg",
+                  
+                    "language":"Hindi"
+                },
+                {
+                   
+                    "songname":"Anbae",
+                    "songurl":"/songs/shreya goshwal songs/Anbae-Peranbae-MassTamilan.org.mp3",
+                    "songthumbnail":"/songs/shreya goshwal songs/songimages/anbae.jpeg",
+                    
+                    "language":"Tamil"
+                }
+            ]
+        },
+        {
+            "singername":"Rahul",
+            "singerimg":"/songs/rahul/songimages/rahul.jpeg",
+            "songslist":[
+                {
+                   
+                    "songname":"Kodana kodi",
+                    "songurl":"/songs/rahul/Kodana-Kodi.mp3",
+                    "songthumbnail":"/songs/rahul/songimages/kondanakodi.jpeg",
+                   
+                    "language":"Malayalam"
+                },
+                {
+                   
+                    "songname":"Single Kingulam",
+                    "songurl":"/songs/rahul/Single Kingulam - SenSongsMp3.Com.mp3",
+                    "songthumbnail":"/songs/rahul/songimages/singlekingulam.jpg",
+                   
+                    "language":"Telugu"
+                },
+                {
+                   
+                    "songname":"Badri Ki Dulhina",
+                    "songurl":"/songs/rahul/Badri Ki Dulhania (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/rahul/songimages/Badrinath-Ki-Dulhania.jpg",
+                   
+                    "language":"Hindi"
+                },
+                {
+                  
+                    "songname":"Vasantha",
+                    "songurl":"/songs/rahul/Vasantha-Mullai.mp3",
+                    "songthumbnail":"/songs/rahul/songimages/vasantha.jpeg",
+                   
+                    "language":"Tamil"
+                },
+                {
+                   
+                    "songname":"Naatu Naatu",
+                    "songurl":"/songs/rahul/Naatu-Naatu-MassTamilan.so.mp3",
+                    "songthumbnail":"/songs/rahul/songimages/naatu naatu.jpeg",
+                   
+                    "language":"Telugu"
+                }
+            ]   
+        },
+        {
+            "singername":"Neha Kakkar",
+            "singerimg":"/songs/neha kakkar/songimages/neha kakkar.jpg",
+            "songslist":[
+                {
+                  
+                    "songname":"kathorthu",
+                    "songurl":"/songs/kk krishna kumar kunnath/Kathorthu Kathorthu (PenduJatt.Com.Se).mp3",
+                    "songthumbnail":"/songs/spb/songimages/poomaname.jpeg",
+                  
+                    "language":"Malayalam"
+                },
+                {
+                  
+                    "songname":"Neeve Neeve",
+                    "songurl":"/songs/neha kakkar/[iSongs.info] 01 - Neeve.mp3",
+                    "songthumbnail":"/songs/neha kakkar/songimages/neeve neeve.jpeg",
+                   
+                    "language":"Telugu"
+                },
+                {
+                  
+                    "songname":"Gali Gali",
+                    "songurl":"/songs/neha kakkar/Gali Gali Kgf Chapter 1 128 Kbps.mp3",
+                    "songthumbnail":"/songs/neha kakkar/songimages/galigali.jpg",
+                
+                    "language":"Hindi"
+                },
+                {
+                    
+                    "songname":"En Kadhal",
+                    "songurl":"/songs/neha kakkar/En-Kaadhal-Theeye.mp3",
+                    "songthumbnail":"/songs/neha kakkar/songimages/kadhal teeye.jpeg",
+             
+                    "language":"Tamil"
+                }
+                ,
+                {
+                    
+                    "songname":"Coco Cola",
+                    "songurl":"/songs/neha kakkar/128-Coca Cola - Luka Chuppi 128 Kbps.mp3",
+                    "songthumbnail":"/songs/neha kakkar/songimages/cococola.webp",
+              
+                    "language":"Hindi"
+                }
+            ]
+        }
+    ]

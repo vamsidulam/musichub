@@ -1,0 +1,49 @@
+.all-songs-list{
+     height: 65vh; 
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    align-items: center;
+    padding: 20px;
+    background-color: #111; 
+    color: white;
+    position: relative;
+}
+.all-songs-list .heading{
+    font-size: 25px;
+    text-decoration: underline;
+    margin-top: 0px;
+}
+.list-song-name{
+    cursor: pointer;
+}
+.list-song-name:hover{
+    text-decoration: underline;
+}
+.upload-new-song-btn{
+    position: absolute;
+    right: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 9px;
+}
+.song-row{
+    position: relative;
+}
+.trending-songs-btn{
+    position: absolute;
+    right: -145px;
+    margin-bottom: 4px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 9px;
+}

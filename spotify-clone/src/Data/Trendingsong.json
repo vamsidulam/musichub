@@ -1,0 +1,82 @@
+[
+        {
+            "id":1,
+            "songname":"Etho Priyaraagam ",
+            "songurl":"/songs/dsp/Etho Priyaraagam (PenduJatt.Com.Se).mp3",
+            "songthumbnail":"/songs/dsp/songimages/arya.jpg",
+            "singername":"DEVI SRI PRASAD",
+            "language":"Malayalam"
+        },
+         {
+            "id":2,
+            "songname":"Ring Ringa ",
+            "songurl":"/songs/dsp/4-Ring Ringa-SenSongsMp3.Co.mp3",
+            "songthumbnail":"/songs/dsp/songimages/arya 2.webp",
+            "singername":"DEVI SRI PRASAD",
+            "language":"Telugu"
+        },
+         {
+            "id":3,
+            "songname":"Saami Saami ",
+            "songurl":"/songs/dsp/128-Saami Saami - Pushpa - The Rise 128 Kbps.mp3",
+            "songthumbnail":"/songs/dsp/songimages/saami saami.jpeg",
+            "singername":"DEVI SRI PRASAD",
+            "language":"Hindi"
+        },
+         {
+            "id":4,
+            "songname":"Yenna Solla Pore",
+            "songurl":"/songs/dsp/Yenna-Solla-Pore.mp3",
+            "songthumbnail":"/songs/dsp/songimages/yenna solla.jpeg",
+            "singername":"DEVI SRI PRASAD",
+            "language":"Tamil"
+        },
+        {
+            "id":5,
+            "songname":"Tatta Tattara ",
+            "songurl":"/songs/anirudh/Tatta Tattara.mp3",
+            "songthumbnail":"/songs/anirudh/songimages/tatta tattara.avif",
+            "singername":"Anirudh",
+            "language":"Malayalam"
+        },
+         {
+            "id":6,
+            "songname":"Ring Ringa ",
+            "songurl":"/songs/dsp/4-Ring Ringa-SenSongsMp3.Co.mp3",
+            "songthumbnail":"/songs/dsp/songimages/arya 2.webp",
+            "singername":"Anirudh",
+            "language":"Telugu"
+        },
+         {
+            "id":7,
+            "songname":"Fear Song ",
+            "songurl":"/songs/anirudh/Fear(KoshalWorld.Com).mp3",
+            "songthumbnail":"/songs/anirudh/songimages/devara.jpeg",
+            "singername":"Anirudh",
+            "language":"Hindi"
+        },
+         {
+            "id":8,
+            "songname":"Hukum",
+            "songurl":"/songs/anirudh/Hukum---Thalaivar-Alappara-MassTamilan.dev.mp3",
+            "songthumbnail":"/songs/anirudh/songimages/jailer.webp",
+            "singername":"Anirudh",
+            "language":"Tamil"
+        },
+        {
+            "id":9,
+            "songname":"Kaattalakal ",
+            "songurl":"/songs/jonitha gandhi/Kaattalakal (PenduJatt.Com.Se).mp3",
+            "songthumbnail":"/songs/jonitha gandhi/songimages/kaattalkal.jpg",
+            "singername":"Jonita Gandhi",
+            "language":"Malayalam"
+        },
+         {
+            "id":10,
+            "songname":"Nuve Nuve",
+            "songurl":"/songs/jonitha gandhi/Nuvve Nuvve - SenSongsmp3.Co.mp3",
+            "songthumbnail":"/songs/jonitha gandhi/songimages/kick-2 nuve nuve.jpg",
+            "singername":"Jonita Gandhi",
+            "language":"Telugu"
+        }
+    ]

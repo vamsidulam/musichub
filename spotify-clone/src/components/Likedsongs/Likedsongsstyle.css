@@ -1,0 +1,108 @@
+.trending-songs-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    position: absolute;
+    top: 0px;
+    height: 500px;
+    right: 0px;
+    left: 0px;
+    max-height: 500px;
+    overflow-y: auto;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.trending-songs-list .title{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 10px;
+}
+.trending-songs-list .see-more-txt{
+    position: absolute;
+    right: 5px;
+    font-size: 19px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+.title:hover,.see-more-txt:hover{
+    text-decoration: underline;
+}
+.trending-songs-list .song-box{
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.trending-songs-list .song-box  .play-btn{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 21px;
+    transition: padding 1s ease, font-size 1s ease;
+}
+.trending-songs-list .song-box .play-btn:hover{
+    padding: 15px;
+    font-size: 25px;
+}
+.trending-songs-list .song-box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 23px;
+}
+.trending-songs-list .song-box .song-name {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #e7dede;
+}
+
+.trending-songs-list::-webkit-scrollbar {
+  width: 7px;
+  height: 9px;
+}
+
+.trending-songs-list::-webkit-scrollbar-thumb {
+  background-color: rgba(245, 246, 235, 0.5);
+  border-radius: 10px;
+  min-height: 10px;
+}
+.trending-songs-list::-webkit-scrollbar-thumb {
+  background-color: #f5f6eb;
+  border-radius: 10px;
+  min-height: 40px;
+}
+
+.trending-songs-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@media (max-width:500px) {
+    .trending-songs-list{
+        grid-template-columns: 1fr 1fr;
+        padding-left: 0px;
+        height: 400px;
+        padding-top: 90px;
+    }
+    .trending-songs-list .song-box{
+        width: 120px;
+        height: 120px;
+        margin-bottom: -10px;
+    }
+    .trending-songs-list .see-more-txt{
+        font-size: 18px;
+        top: 55px;
+    }
+    .trending-songs-list .title{
+
+    }
+}

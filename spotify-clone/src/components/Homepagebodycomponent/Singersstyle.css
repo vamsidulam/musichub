@@ -1,0 +1,101 @@
+.singers-list{
+    position: absolute;
+    top: 600px;
+    right: 0px;
+    left: 0px;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.view-all-btn:hover{
+  text-decoration: underline;
+}
+
+.singers-list .singer-title{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 10px;
+}
+.singers-list .see-more-txt{
+    position: absolute;
+    right: 5px;
+    font-size: 19px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+.singer-title:hover,.see-more-txt:hover{
+    text-decoration: underline;
+}
+.singers-list .singer-box{
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.singers-list .singer-box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 23px;
+    transition: width 0.5s ease-in-out , height 0.5s ease-in-out;
+}
+.singer-box img:hover{
+  width: 160px;
+  height: 160px;
+}
+.singers-list .singer-box .singer-name {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #e7dede;
+}
+
+.singers-list::-webkit-scrollbar {
+  width: 7px;
+  height: 9px;
+}
+
+.singers-list::-webkit-scrollbar-thumb {
+  background-color: rgba(245, 246, 235, 0.5);
+  border-radius: 10px;
+  min-height: 10px;
+}
+.singers-list::-webkit-scrollbar-thumb {
+  background-color: #f5f6eb;
+  border-radius: 10px;
+  min-height: 40px;
+}
+
+.singers-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@media (max-width:500px) {
+    .singers-list{
+        grid-template-columns: 1fr 1fr;
+        padding-left: 0px;
+        margin-top: -110px;
+        padding-top: 90px;
+    }
+    .singers-list .singer-box{
+        width: 120px;
+        height: 120px;
+        margin-bottom: 40px;
+    }
+    .singers-list .see-more-txt{
+        font-size: 18px;
+        top: 55px;
+    }
+    .trending-songs-list .title{
+
+    }
+}

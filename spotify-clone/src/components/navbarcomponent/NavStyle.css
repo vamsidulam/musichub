@@ -1,0 +1,199 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(27, 27, 30);
+    color: white;
+    box-shadow: 0px 0px 3px rgb(172, 99, 99);
+    padding: 5px 10px;
+    height: 100px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    font-family: 'Roboto', sans-serif;
+    z-index: 234223232;
+}
+.logo-bar{
+    width: 100%;
+    max-width: 260px;
+    min-width: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo-bar .left-menu-btn{
+    font-size: 30px;
+    color: rgb(144, 144, 217);
+    font-weight: bold;
+    cursor: pointer;
+}
+.logo-bar img{
+    width: 85px;
+    height: 85px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.input-bar{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-bar .input-box{
+    width: 100%;
+    max-width: 500px;
+    min-width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.input-bar .input-box input{
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 5px rgb(200, 172, 172);
+    padding: 10px;
+    color: white;
+    width: 100%;
+    max-width: 500px;
+    min-width: 100px;
+    border-radius: 9px;
+    font-size: 18px;
+    background: transparent;
+    background-color: rgb(48, 46, 41);
+}
+.input-bar .input-box input:focus{
+     box-shadow: 0px 0px 8px #0ff;
+}
+.input-bar .input-box .search-icon{
+    position: absolute;
+    right: 0px;
+    border-radius: 0px 9px 9px 0px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 50px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.input-bar .input-box .search-icon .search-icon-logo{
+    font-size: 28px;
+    cursor: pointer;
+}
+.profile-bar{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile-bar button{
+    cursor: pointer;
+    background-color: blue;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0px 0px 5px #0ff;
+}
+.profile-bar button:focus,.profile-bar button:hover{
+    box-shadow: 0px 0px 10px #0ff;
+}
+.login-signup-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.logged-in-profile{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    width: 100%;
+}
+.nav-profile-page{
+    position: absolute;
+    top: 60px;
+    right: -50px;
+    background-color: rgba(12, 15, 15);
+    box-shadow: 0px 0px 10px #0ff;
+    border-radius: 9px;
+    width: 180px;
+    height: 150px;
+    padding-top: 20px;
+    cursor:default;
+}
+.nav-profile-page .option{
+    padding: 5px;
+    margin-top: 0px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    margin: 5px;
+    background-color: #3e3030;
+}
+.option:hover{
+    background-color:  rgba(162, 198, 198, 0.4);
+}
+.logged-in-profile .profile{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(173, 145, 145);
+    background:transparent;
+    box-shadow: 0px 0px 10px #0ff;
+    border-radius: 510px;
+    cursor: pointer;
+    position: relative;
+}
+.userdp{
+    font-size: 40px;
+}
+.search-results{
+    background-color: rgb(48, 46, 41);
+    position: absolute;
+    left: 0px;
+    right: 50px;
+    top: 25px;
+    color: white;
+    font-weight: bold;
+    max-height: 300px;
+    overflow-y:auto;
+    border-radius:  0px 0px 5px 5px;
+    z-index: 10;
+    padding: 5px;
+    list-style: none;
+}
+@media (max-width: 450px) {
+    .logout{
+        display: none;
+    }
+    .nav-bar{
+        right: -13.19px;
+    }
+    .logo-bar{
+        margin-left: -10px;
+    }
+    .search-results{
+        right: 0px;
+    }
+    .search-icon{
+        display: none;
+        background-color: rgb(48, 46, 41);
+    }
+    .search-icon-logo{
+        display: none;
+        background-color: rgb(48, 46, 41);
+    }
+    .input-bar .input-box .search-icon{
+        background-color: rgb(48, 46, 41);
+    }
+}
+
+.search-results li:hover {
+  background-color: #555;
+  color: white;
+}
+.input-box {
+  position: relative;
+}

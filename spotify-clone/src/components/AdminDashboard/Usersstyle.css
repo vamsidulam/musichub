@@ -1,0 +1,30 @@
+table th,table tr,table td{
+    border: 2px solid white;
+}
+table{
+    border: 2px solid white;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+table td{
+    padding: 8px;
+}
+
+.users-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:  70vh;
+    overflow-y: auto;
+}
+.users-page p{
+    font-size: 25px;
+    text-decoration: underline;
+    margin-top: 0px;
+}
+.email{
+    cursor: pointer;
+}
+.email:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,70 @@
+.upload-song-box{
+    display: flex;
+    flex-direction: column;
+    height: 95vh;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+form:hover{
+    box-shadow: 0px 0px 5px rgb(165, 220, 220);
+}
+form{
+   box-shadow: 0px 0px 5px rgb(52, 148, 148);
+    width: 380px;
+    font-size: 19px;
+    padding: 20px;
+}
+.details-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.details-box input{
+    border: none;
+    background-color: aqua;
+    background-color: transparent;
+    box-shadow: 0px 0px 5px #0ff;
+    padding: 10px;
+    border-radius: 9px;
+    outline: none;
+    color: white;
+    
+}
+.data-upload-box{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    justify-content: left;
+    
+}
+.data-upload-box input{
+    padding-top: 10px;
+    outline: none;
+}
+.upload-btn{
+    width: 100%;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 9px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.new-singer-btn{
+    background-color: blue;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 9px;
+    margin-top: 15px;
+    cursor: pointer;   
+}

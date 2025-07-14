@@ -1,0 +1,18 @@
+.middle-bar{
+    flex: 1;
+    background-color: rgb(27, 27, 30);
+    height: 87.6vh;
+    top:26px;
+    overflow-y: auto;
+}
+
+
+.middle-bar::-webkit-scrollbar {
+  width: 10px;
+}
+@media (max-width:500px) {
+  .middle-bar{
+    height: 100%;
+    max-height: 89vh;
+  }
+}

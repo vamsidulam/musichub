@@ -1,0 +1,133 @@
+.playlist-page{
+    display: flex;
+   flex-direction: column;
+   position: absolute;
+   top: 110px;
+}
+.playlist-page .playlist-heading{
+    height: 180px;
+    background-color: red;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 25px;
+}
+.playlist-heading p{
+    margin-top: 0px;
+}
+.playlist-page .playlist-body{
+
+}
+.playlist-body .list-of-playlists{
+
+}
+.playlist{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    box-shadow: 0px 0px 5px #0ff;
+    margin: 20px;
+    border-radius: 10px;
+}
+.playlist .playlist-img{
+    width: 100px;
+    height: 100px;
+}
+.playlist-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 9px;
+    transition: height 0.56 ease-in-out;
+    cursor: pointer;
+}
+.playlist-img img:hover{
+    height: 103px;
+}
+.playlist .playlist-details{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 19px;
+}
+.playlist-details p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.playlist-details .playlist-song-lang{
+    display: flex;
+    padding-left: 50px;
+}
+.playlist-song-lang .lang{
+    padding-left: 5px;
+}
+.playlist-details button{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.button-duration{
+    display: flex;
+    align-items: center;
+    width: 250px;
+    justify-content: space-between;
+    padding-right: 50px;
+}
+
+@media (max-width: 500px) {
+
+
+  .playlist-page .playlist-heading {
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  .lang{
+    display: none;
+  }
+  
+  .playlist-song-lang{
+    flex-direction: column;
+  }
+  .playlist-song-lang p{
+    margin-top: 0px;
+    margin-bottom: 4px;
+  }
+  
+ 
+  
+  .playlist{
+    justify-content: space-between;
+    padding: 0px;
+    margin: 0px;
+    height: 90px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  .playlist-img img{
+    width: 50px;
+    height: 60px;
+    margin-top: 13px;
+    margin-left: 20px;
+  }
+  
+  .playlist-song-duration{
+    display: none;
+  }
+  .playlist-details{
+    justify-content: space-between;
+    
+  }
+  .playlist-details button{
+    margin-left: 10px;
+  }
+  
+}

@@ -1,0 +1,47 @@
+.admin-left-nav-bar{
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    box-shadow: 0px 0px 5px #0ff;
+    width: 330px;
+    border: 2px solid white;
+    height: 70vh;
+    padding: 20px;
+    position: relative;
+}
+.admin-menu-btn{
+    position: absolute;
+    right: 10px;
+    font-size: 30px;
+}
+.admin-left-nav-bar .pictures{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: fixed;
+    position: absolute;
+    top: 50px;
+    height: 35vh;
+}
+.left-nav-bar-options{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+    margin-top: px;
+}
+.left-nav-bar-options p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
+.left-nav-bar-options{
+    background-color: rgba(44, 53, 60, 0.4);
+    border-radius: 9px;
+    padding: 10px;
+    cursor: pointer;
+}
+.left-nav-bar-options:hover{
+     background-color: rgba(66, 74, 80,0.4);
+}
+
